@@ -1,1 +1,2 @@
 Testing this txt file
+testing git commit message
